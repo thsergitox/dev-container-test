@@ -14,3 +14,9 @@ coverage==6.3.2
 factory-boy==3.2.1     # Versión actualizada
 pylint==2.14.0
 
+pytest-mock
+requests
+requests-mock
+pytest-benchmark
+pytest-asyncio
+bandit
